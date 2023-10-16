@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MinimizeMaximizeProblem (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MinimizeMaximizeProblem (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
